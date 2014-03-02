@@ -63,6 +63,7 @@ To build the Push Capture sample application:
 	- webworks plugin add com.blackberry.ui.dialog
 	- webworks plugin add com.blackberry.ui.toast
 	- webworks plugin add com.blackberry.notification
+        - webworks plugin add com.blackberry.app
 
 8. Click on the "Build" tab and deploy to a device
 
